@@ -1,0 +1,4 @@
+.venv
+/Project03/data
+Project03/data/camelyon17_v1.0/metadata.csv
+Project03/data/camelyon17_v1.0/RELEASE_v1.0.txt
